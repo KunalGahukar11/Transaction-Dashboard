@@ -1,6 +1,7 @@
 In this assessment i build the dashboard using,
 
-- antd component for the UI
-- tailwind css for styling
+- Ant Design (antd) components for the UI
+- Tailwind CSS for styling
 
-As i'm not much aware with chart libraries and also encountered some challenges, that's why unable to implement that part
+I'm still learning how to work with chart libraries and encountered some challenges while implementing them.
+As a result, I wasn’t able to complete that part. However, I plan to continue learning and add this feature in the future.
